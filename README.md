@@ -17,13 +17,12 @@ A landing page
   - [ ] for Header and Survival: `background-color: #02160b`
   - [ ] for Latest articles and Get notified: `background-color: #cccccc`
   - [ ] for Footer: `background-color: #181617`
+- [ ] The page must include one `<h1>` 
 
-
-- [ ] Header:
-  - [ ] This block includes only a logo and a navigation menu
-  - [ ] The consists of an svg image and a text
-  - [ ] The Header must include one `<h1>` 
-  - [ ] The navigation menu is `ul > li > a`
+- [x] Header:
+  - [x] This block includes only a logo and a navigation menu
+  - [x] The logo consists of an svg image and a text
+  - [x] The navigation menu is `ul > li > a`
 
 
 - [ ] Survival: 
@@ -36,7 +35,7 @@ A landing page
 - [ ] Latest articles
   - [ ] Only fkexbox, grid or float can be used. `<table>` is forbidden
   - [ ] Texts could be placed over images using `position: abcolute`, images can be added using `background-image`, though it is not semantically correct
-  - [ ] A silder navigation is interactive
+  - [ ] A slider navigation is interactive
 
 - [ ] Get notified: 
   - [ ] Use `<form>`
