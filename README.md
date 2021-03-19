@@ -45,8 +45,8 @@ A landing page
   - [x] The footer includes a logo, additional navigation menu and social links 
   - [x] Use the logo from the Header
   - [x] A menu and links is added as `ul > li > a`
-  - [ ] For social links use svg icons
-  - [ ] All links must be interective
+  - [x] For social links use svg icons
+  - [ ] All links must be interactive
 
 ## Recommendations
 
