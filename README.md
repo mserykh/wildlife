@@ -32,7 +32,7 @@
 
 - [ ] Latest articles
   - [ ] Only flexbox, grid or float can be used. `<table>` is forbidden
-  - [ ] Texts could be placed over images using `position: abcolute`, images can be added using `background-image`, though it is not semantically correct
+  - [ ] Texts could be placed over images using `position: absolute`, images can be added using `background-image`, though it is not semantically correct
   - [ ] A slider navigation is interactive
 
 - [x] Get notified: 
