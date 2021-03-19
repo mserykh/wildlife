@@ -1,0 +1,22 @@
+:root {
+    --orange-main: #CD6326;
+    --orange-light: #E39128;
+    --orange-dark: #8F5613;
+    --font-light: #F7F7F7;
+    --font-grey: #666666;
+    --font-dark: #333333;
+    --bg-green: #02160b;
+    --bg-grey: #cccccc;
+    --bg-dark: #181617;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+  
