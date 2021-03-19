@@ -1,6 +1,6 @@
 # Wildlife
 
-A landing page
+[A landing page](https://mserykh.github.io/wildlife/)
 
 ## Technical task
 
