@@ -15,7 +15,7 @@
 - [x] Grid width: 1440px, content width: 1200px
 - [ ] Background colours: 
   - [x] for Header and Survival: `background-color: #02160b`
-  - [ ] for Latest articles and Get notified: `background-color: #cccccc`
+  - [x] for Latest articles and Get notified: `background-color: #cccccc`
   - [ ] for Footer: `background-color: #181617`
 
 - [x] Header:
@@ -30,10 +30,10 @@
   - [x] Use `<br>` for a new line
   - [x] A button "Donate" is interactive, add all state styles as designed
 
-- [ ] Latest articles
-  - [ ] Only flexbox, grid or float can be used. `<table>` is forbidden
-  - [ ] Texts could be placed over images using `position: absolute`, images can be added using `background-image`, though it is not semantically correct
-  - [ ] A slider navigation is interactive
+- [x] Latest articles
+  - [x] Only flexbox, grid or float can be used. `<table>` is forbidden
+  - [x] Texts could be placed over images using `position: absolute`, images can be added using `background-image`, though it is not semantically correct
+  - [x] A slider navigation is interactive
 
 - [x] Get notified: 
   - [x] Use `<form>`
