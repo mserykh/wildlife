@@ -7,16 +7,16 @@
 [Layout in Figma](https://www.figma.com/file/dJoqHi1YHTLR06PPEeCc7t/Wildlife)
 
 - [x] Must include following blocks: Header, Survival, Last articles, Get notified, Footer
-- [ ] Acceptable allowance : 5px horizontally and 10px vertically
+- [x] Acceptable allowance : 5px horizontally and 10px vertically
 - [ ] Adaptive grid is appreciated
-- [ ] A slider could be left as a layout
-- [ ] Elements in a row must be the same width if they are visually so
-- [ ] Interective elements must have interective effects
+- [x] A slider could be left as a layout
+- [x] Elements in a row must be the same width if they are visually so
+- [x] Interective elements must have interective effects
 - [x] Grid width: 1440px, content width: 1200px
-- [ ] Background colours: 
+- [x] Background colours: 
   - [x] for Header and Survival: `background-color: #02160b`
   - [x] for Latest articles and Get notified: `background-color: #cccccc`
-  - [ ] for Footer: `background-color: #181617`
+  - [x] for Footer: `background-color: #181617`
 
 - [x] Header:
   - [x] This block includes only a logo and a navigation menu
@@ -41,12 +41,12 @@
   - [x] A send element should be marked up with `<input>` and `type` is `submit`
   - [x] Add an e-mail input placeholder
 
-- [ ] Footer: 
+- [x] Footer: 
   - [x] The footer includes a logo, additional navigation menu and social links 
   - [x] Use the logo from the Header
   - [x] A menu and links is added as `ul > li > a`
   - [x] For social links use svg icons
-  - [ ] All links must be interactive
+  - [x] All links must be interactive
 
 ## Recommendations
 
