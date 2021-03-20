@@ -53,3 +53,6 @@
 - For a pixel perfect check use a Chrome extension "PerfectPixel by WellDoneCode"
 - A button "Sign in" could be `a` or `button`
 - The final layout should be visually similar to the mockup in Figma
+
+## Wildlife landing page
+![alt text](https://github.com/mserykh/wildlife/blob/feature/styles/source/img/wildlife.jpg)
