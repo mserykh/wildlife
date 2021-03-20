@@ -239,7 +239,7 @@ body {
 }
 
 .slider__toggle--prev {
-    background-image: url('/source/icons/previous.svg');
+    background-image: url('../source/icons/previous.svg');
     width: 26px;
     height: 39px;
     left: 0px;
@@ -249,7 +249,7 @@ body {
     width: 30px;
     height: 39px;
     right: 0px;
-    background-image: url('/source/icons/next.svg');
+    background-image: url('../source/icons/next.svg');
 }
 
 .slider__toggle--prev:hover {
