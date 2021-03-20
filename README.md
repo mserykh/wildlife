@@ -6,15 +6,15 @@
 
 [Layout in Figma](https://www.figma.com/file/dJoqHi1YHTLR06PPEeCc7t/Wildlife)
 
-- [ ] Must include following blocks: Header, Survival, Last articles, Get notified, Footer
+- [x] Must include following blocks: Header, Survival, Last articles, Get notified, Footer
 - [ ] Acceptable allowance : 5px horizontally and 10px vertically
 - [ ] Adaptive grid is appreciated
 - [ ] A slider could be left as a layout
 - [ ] Elements in a row must be the same width if they are visually so
 - [ ] Interective elements must have interective effects
-- [ ] Grid width: 1440px, content width: 1200px
+- [x] Grid width: 1440px, content width: 1200px
 - [ ] Background colours: 
-  - [ ] for Header and Survival: `background-color: #02160b`
+  - [x] for Header and Survival: `background-color: #02160b`
   - [ ] for Latest articles and Get notified: `background-color: #cccccc`
   - [ ] for Footer: `background-color: #181617`
 
@@ -24,11 +24,11 @@
   - [x] The navigation menu is `ul > li > a`
   - [x] The page must include one `<h1>` 
 
-- [ ] Survival: 
-  - [ ] Header and Survival have a shared background image
-  - [ ] Use `letter-spacing` for a title
+- [x] Survival: 
+  - [x] Header and Survival have a shared background image
+  - [x] Use `letter-spacing` for a title
   - [x] Use `<br>` for a new line
-  - [ ] A button "Donate" is interactive, add all state styles as designed
+  - [x] A button "Donate" is interactive, add all state styles as designed
 
 - [ ] Latest articles
   - [ ] Only flexbox, grid or float can be used. `<table>` is forbidden
