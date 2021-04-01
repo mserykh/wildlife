@@ -487,23 +487,28 @@ input[type=email]:active {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding:0 120px;
 }
 
 .footer__inner {
+    max-width: 1440px;
+    min-width: 1200px;
+    width: 100%;
     padding: 0 120px;
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 225px 1fr 240px;
     align-items: center;
     margin: 0 auto;
     flex-wrap: wrap;
+    justify-items: center;
 }
 
-.footer__menu .menu__item {
-    margin-right: 48px;
+.footer__menu .menu__list{
+    width: 520px;
 }
 
-.footer__menu .menu__item:last-child {
-    margin-right: 0;
+.footer__social {
+    max-width: 240px;
 }
 
 .social-links {
