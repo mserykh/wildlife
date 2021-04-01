@@ -8,7 +8,7 @@
 
 - [x] Must include following blocks: Header, Survival, Last articles, Get notified, Footer
 - [x] Acceptable allowance : 5px horizontally and 10px vertically
-- [ ] Adaptive grid is appreciated
+- [x] Adaptive grid is appreciated
 - [x] A slider could be left as a layout
 - [x] Elements in a row must be the same width if they are visually so
 - [x] Interective elements must have interective effects
