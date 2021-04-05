@@ -490,22 +490,20 @@ input[type=email]:active {
     background-position: center top;
     min-height: 360px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    padding:0 120px;
+    align-items: center;
+    align-content: center;
 }
 
 .footer__inner {
     max-width: 1440px;
-    min-width: 1200px;
     width: 100%;
-    padding: 0 120px;
-    display: grid;
-    grid-template-columns: 225px 1fr 240px;
-    align-items: center;
     margin: 0 auto;
+    padding: 0 120px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
-    justify-items: center;
 }
 
 .footer__menu .menu__list{
